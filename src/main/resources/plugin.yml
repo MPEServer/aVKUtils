@@ -1,0 +1,7 @@
+name: aVKUtils
+main: tech.teslex.aVKUtils.aVKMain
+load: STARTUP
+version: "1"
+author: "TesLex & AlexBrin"
+api: ["1.0.0"]
+description: TestQ

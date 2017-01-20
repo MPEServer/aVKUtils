@@ -1,0 +1,15 @@
+---
+auth:
+  # enable - включить авторизацию
+  # disable - выключить авторизацию
+  auth: disable
+  # login - вход по логину и паролю
+  # token - вход по токену
+  method: login
+  # права для авторизации - https://vk.com/dev/permissions
+  scope: "offline,messages,wall,status" # БЕЗ ПРОБЕЛОВ
+  data:
+    token: ""
+    login: ""
+    password: ""
+...
